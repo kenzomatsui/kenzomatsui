@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="380" viewBox="0 0 1200 380" role="img" aria-labelledby="title desc">
+  <title id="title">Sérgio Kenzo Matsui</title>
+  <desc id="desc">Aplicativos, educação e robótica. Um circuito liga um celular a um robô sobre fundo azul escuro.</desc>
+  <defs>
+    <pattern id="grid" width="28" height="28" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#283b4b"/></pattern>
+  </defs>
+  <rect width="1200" height="380" rx="20" fill="#101e2b"/>
+  <rect width="1200" height="380" rx="20" fill="url(#grid)"/>
+  <path d="M0 360H1200" stroke="#b8e477" stroke-width="4"/>
+  <g font-family="Arial, Helvetica, sans-serif">
+    <text x="64" y="78" fill="#b8e477" font-size="15" letter-spacing="4">KENZOMATSUI / PROJETOS</text>
+    <text x="60" y="154" fill="#f2efe6" font-size="56" font-weight="700">Sérgio Kenzo</text>
+    <text x="60" y="215" fill="#f2efe6" font-size="56" font-weight="700">Matsui</text>
+    <text x="64" y="269" fill="#bac8d3" font-size="23">Aplicativos, educação e robótica.</text>
+    <text x="64" y="322" fill="#b8e477" font-size="14" letter-spacing="3">KOTLIN / JAVA / ANDROID</text>
+  </g>
+  <g fill="none" stroke="#b8e477" stroke-width="3" stroke-linecap="round" stroke-linejoin="round">
+    <rect x="759" y="66" width="108" height="178" rx="17" fill="#172b39"/>
+    <path d="M793 81h40M800 228h25M781 115h63M781 132h42M781 166l14-14 17 18 29-25"/>
+    <path d="M867 159h58l33 33h54M813 244v45h119l28-28h59" stroke="#709987"/>
+    <rect x="971" y="93" width="157" height="118" rx="24" fill="#172b39"/>
+    <path d="M1049 93V69M1015 175h69M985 211v28M1114 211v28"/>
+    <circle cx="1049" cy="59" r="9" fill="#b8e477"/>
+    <circle cx="1015" cy="138" r="9" fill="#b8e477"/>
+    <circle cx="1084" cy="138" r="9" fill="#b8e477"/>
+    <circle cx="1027" cy="261" r="8" fill="#101e2b"/>
+    <circle cx="735" cy="291" r="6" stroke="#709987"/>
+    <path d="M735 285v-54l-29-29v-81h26" stroke="#709987"/>
+  </g>
+</svg>
