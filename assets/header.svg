@@ -7,6 +7,7 @@
     <linearGradient id="line"><stop stop-color="#b8e477"/><stop offset="1" stop-color="#6edbd2"/></linearGradient>
   </defs>
   <style>
+    .gamepad{animation:drift 7s ease-in-out infinite;transform-box:fill-box;transform-origin:center}@keyframes drift{0%,100%{transform:translateY(0) rotate(-4deg)}50%{transform:translateY(-5px) rotate(4deg)}}
     .signal{stroke-dasharray:14 210;animation:flow 5s linear infinite}
     .signal2{stroke-dasharray:10 300;animation:flow2 7s linear infinite}
     .eyes{transform-box:fill-box;transform-origin:center;animation:blink 6s ease-in-out infinite}
@@ -20,7 +21,7 @@
     @keyframes pulse{0%,100%{opacity:.35;transform:scale(.85)}50%{opacity:.9;transform:scale(1.2)}}
     @keyframes twinkle{0%,100%{opacity:.3}50%{opacity:1}}
     @keyframes cursor{0%,65%{opacity:1}66%,100%{opacity:.2}}
-    @media(prefers-reduced-motion:reduce){.signal,.signal2,.eyes,.antenna,.star,.cursor{animation:none}}
+    @media(prefers-reduced-motion:reduce){.signal,.signal2,.eyes,.antenna,.star,.cursor,.gamepad{animation:none}}
   </style>
   <rect width="1200" height="420" rx="22" fill="url(#bg)"/>
   <rect width="1200" height="420" rx="22" fill="url(#grid)"/>
@@ -57,5 +58,6 @@
       <path class="star" d="M867 343v12M861 349h12"/>
     </g>
   </g>
+  <g transform="translate(921 323)"><g class="gamepad" fill="#172b39" stroke="#6edbd2" stroke-width="2" stroke-linecap="round"><path d="M3 5q0-5 6-5h33q6 0 7 6l4 13q1 8-6 8l-10-8H17L8 27q-7 1-7-7Z"/><path d="M11 9h10m-5-5v10"/><circle cx="37" cy="7" r="2" fill="#b8e477"/><circle cx="43" cy="13" r="2" fill="#b8e477"/></g></g>
   <text x="789" y="367" fill="#a9bfc6" font-size="12" letter-spacing="3" font-family="Arial, Helvetica, sans-serif">IDEIAS EM MOVIMENTO</text>
 </svg>

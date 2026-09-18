@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="236" viewBox="0 0 480 236" role="img" aria-labelledby="title desc">
+<title id="title">InvestCity</title><desc id="desc">Contas, cartas e desafios de juros. Android · Kotlin · NFC em desenvolvimento</desc>
+<style>.icon{transform-box:fill-box;transform-origin:center;animation:float 6s ease-in-out infinite;animation-delay:-2s}.point{animation:glow 4s ease-in-out infinite}@keyframes float{0%,100%{transform:translateY(0)}50%{transform:translateY(-5px)}}@keyframes glow{0%,100%{opacity:.4}50%{opacity:1}}@media(prefers-reduced-motion:reduce){.icon,.point{animation:none}}</style>
+<rect x="1" y="1" width="478" height="234" rx="18" fill="#101e2b" stroke="#314452"/>
+<path d="M25 30h30" stroke="#6edbd2" stroke-width="3" stroke-linecap="round"/>
+<text x="65" y="35" font-family="monospace" font-size="12" fill="#a9bac6">PROJETO / 02</text>
+<g color="#6edbd2" stroke="#6edbd2" fill="none" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round" opacity=".85" transform="translate(344 43) scale(.9)"><g class="icon"><rect x="18" y="17" width="63" height="100" rx="12"/><path d="M39 27h20M42 105h16M30 82V65h10v17M47 82V54h10v28M64 82V42h8v40"/></g></g>
+<g font-family="Arial,Helvetica,sans-serif">
+<text x="25" y="83" font-size="31" font-weight="700" fill="#f2efe6">InvestCity</text>
+<text x="25" y="120" font-size="18" font-weight="400" fill="#6edbd2">O banco da partida, no celular.</text>
+<text x="25" y="154" font-size="17" fill="#b9c8d1">Contas, cartas e desafios de juros.</text>
+<path d="M25 179h430" stroke="#2b4050"/>
+<text x="25" y="209" font-size="13" fill="#b9c8d1">Android · Kotlin · NFC em desenvolvimento</text>
+<path d="M424 203h16m-6-6 6 6-6 6" stroke="#6edbd2" stroke-width="2" fill="none"/>
+</g><circle class="point" cx="451" cy="29" r="3" fill="#6edbd2"/>
+</svg>
