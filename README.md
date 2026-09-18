@@ -1,6 +1,8 @@
-<img src="assets/header.svg" width="100%" alt="Sérgio Kenzo Matsui — aplicativos, educação e robótica. Um circuito conecta um celular a um robô." />
+<img src="assets/header.svg" width="100%" alt="Sérgio Kenzo Matsui Carnelós — aplicativos, educação, jogos e robótica. Banner animado com um robô e circuitos luminosos." />
 
 ## Olá, eu sou o Sérgio Kenzo.
+
+**Sérgio Kenzo Matsui Carnelós**
 
 Meus projetos passam por **aplicativos, educação, jogos e robótica**. Por aqui tem um banco para jogos de tabuleiro, ferramentas para organizar a rotina e programas que levam o código para o robô.
 
